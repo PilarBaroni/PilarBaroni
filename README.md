@@ -1,5 +1,5 @@
-<h1 align="center" >Hi 👋, I'm Pilar Baroni</h1>
-<h3 align="center" >🎓 Junior Full Stack developer from Argentina 🎓</h3>
+<h1 align="center" >Hola 👋, soy Pilar Baroni</h1>
+<h3 align="center" >🎓 Desarrolladora Full Stack Junior de Argentina 🎓</h3>
 
 ###
 
@@ -14,14 +14,14 @@
 
 ###
 <br/>
-<h3 align="left">About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30" width="30" /></h3>
-<p align="left"> 🔭 I’m currently working on Golden Elf (https://nft-dapp-golden-elf-front.vercel.app/) and Tykkera (https://www.tykkera.com/) </p>
-<p align="left">🌱 I'm searching to learn: Python and php </p>
-<p align="left">⚡ Fun fact: I stand out for my tireless determination, my sense of responsibility and my proactive attitude. My firm commitment to constant learning enables me to adapt quickly to new technologies and challenges. I am very excited about the possibilities that the web development field offers and I am eager to apply my skills and experience in innovative projects that seek to achieve outstanding levels of quality and effectiveness.</p>
+<h3 align="left">Sobre mí <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30" width="30" /></h3>
+<p align="left"> 🔭 Portafolio: https://portafolio-beige-one.vercel.app/ </p>
+<p align="left">🌱 Estoy buscando aprender: Python y PHP </p>
+<p align="left">⚡ Dato curioso: Me destaco por mi incansable determinación, mi sentido de la responsabilidad y mi actitud proactiva. Mi firme compromiso con el aprendizaje constante me permite adaptarme rápidamente a nuevas tecnologías y desafíos. Estoy muy emocionada por las posibilidades que ofrece el campo del desarrollo web y estoy ansiosa por aplicar mis habilidades y experiencia en proyectos innovadores que busquen alcanzar niveles sobresalientes de calidad y eficacia.</p>
 
 <br/><br/>
 <div align="center">
-<h4>Languages and Tools:</h4>
+<h4>Lenguajes y Herramientas:</h4>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> 
@@ -42,7 +42,7 @@
 ###
 <br/>
 <div align="center">
-  <h4 >Connect with me:</h4>
+  <h4 >Contáctame:</h4>
   <a href="https://www.instagram.com/pilibaroni/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
